@@ -47,7 +47,7 @@ This tutorial is ideal for:
 ## 👨‍🏫 Presenters
 
 - **Dr. Yihao Ding** – Postdoctoral Research Fellow, University of Melbourne  
-- **Feiqi Cao** – Ph.D., School of Computer Science, University of Sydney  
+- **Dr. Feiqi Cao** – Ph.D., School of Computer Science, University of Sydney  
 - **Dr. Siqu Long** – Research Fellow, University of Sydney  
 - **Dr. Siwen Luo** – Lecturer, School of Physics, Mathematics and Computing, University of Western Australia  
 - **Dr. Yifan Peng** – Associate Professor, Department of Population Health Sciences, Weill Cornell Medicine  
