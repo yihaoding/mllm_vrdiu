@@ -46,11 +46,11 @@ This tutorial is ideal for:
 
 ## 👨‍🏫 Presenters
 
-- **Yihao Ding** – University of Sydney (formerly University of Melbourne)  
-- **Feiqi Cao** – University of Sydney  
-- **Siqu Long** – Affiliated, University of Sydney  
-- **Siwen Luo** – University of Western Australia  
-- **Yifan Peng** – Weill Cornell Medicine
+- **Dr. Yihao Ding** – Postdoctoral Research Fellow, University of Melbourne  
+- **Feiqi Cao** – Ph.D., School of Computer Science, University of Sydney  
+- **Dr. Siqu Long** – Research Fellow, University of Sydney  
+- **Dr. Siwen Luo** – Lecturer, School of Physics, Mathematics and Computing, University of Western Australia  
+- **Dr. Yifan Peng** – Associate Professor, Department of Population Health Sciences, Weill Cornell Medicine  
 
 ---
 
