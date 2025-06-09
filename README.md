@@ -7,7 +7,7 @@
 
 ## 🧠 Overview
 
-This tutorial explores how Multimodal Large Language Models (MLLMs) enhance Visually Rich Document Understanding (VRDU) in domains like business, law, and medicine. It features both lectures and hands-on labs covering tasks, benchmarks, frameworks, and real-world applications.
+The rising demand for a Visually Rich Document (VRD) understanding spans various domains such as business, law, and medicine, aiming to enhance the efficiency of document-related tasks. Multimodal Large Language Models (MLLMs) are particularly suited for VRD understanding (VRDU) tasks, as they possess extensive real-world knowledge, enabling zero-shot or few-shot learning. This tutorial will systematically overview LLM/MLLM-driven VRDU frameworks, analyzing current technical trends. It will begin by introducing common document understanding tasks, along with associated benchmarks and techniques. Following this, a summary of existing LLM/MLLM-based VRDU frameworks will cover training strategies, inference methods, and data preparation. To solidify understanding, two hands-on labs will be provided, ensuring participants grasp not only theoretical concepts but also practical applications using state-of-the-art techniques to address real-world challenges.
 
 ---
 
