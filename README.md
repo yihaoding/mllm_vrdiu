@@ -13,8 +13,6 @@ The rising demand for a Visually Rich Document (VRD) understanding spans various
 
 ## 🗓️ Schedule (3.5 Hours)
 
-## ⏰ Tentative Schedule
-
 | Section | Duration |
 |--------|----------|
 | **1. Introduction to MLLM for VRDU** | **20 mins** |
