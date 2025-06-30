@@ -88,7 +88,7 @@ Siqu is an affiliated researcher at the University of Sydney. Her research inter
 
 ---
 
-### <img src="assets/siwen.jpg" width="100" height="100"> Dr. Siwen Luo
+### <img src="images/siwen.jpg" width="100" height="100"> Dr. Siwen Luo
 Lecturer, University of Western Australia  
 Siwen received her Ph.D. in Computer Science from The University of Sydney in 2023 and is currently a Lecturer at The University of Western Australia. Her research spans Multimodal Learning, Large Language Models, and Explainable AI, and she has received the Best Paper Award and Best Area Paper Award at top-tier AI and NLP conferences for her work in Multimodal Learning. Dr. Luo has also made substantial contributions to Visually-rich Document Understanding, with her research being published in leading AI conferences such as COLING 2022, ECML PKDD 2023, and IJCAI 2024. As a recognised leader in this field, she organised and chaired the first Document Intelligence and Understanding workshop at the prestigious CIKM 2023 conference.
 
