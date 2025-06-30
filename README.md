@@ -104,11 +104,4 @@ He has published in leading conferences and journals such as ACL, CVPR, AAAI, IJ
 ---
 
 
-
-## 💡 Why Attend?
-
-Learn how powerful models like **GPT-4o**, **DocLLM**, and others are revolutionizing VRDU through zero/few-shot learning and multimodal representations. This tutorial offers comprehensive insights into the challenges and future of MLLM-driven document intelligence.
-
----
-
 © 2025 IJCAI Tutorial – MLLM for VRDU
