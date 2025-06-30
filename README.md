@@ -11,27 +11,18 @@ The rising demand for a Visually Rich Document (VRD) understanding spans various
 
 ## 🗓️ Schedule (3.5 Hours)
 
-| Section | Duration |
-|--------|----------|
-| **1. Introduction to MLLM for VRDU** | **20 mins** |
-| &nbsp;&nbsp;&nbsp;&nbsp;• Motivation and Significance | |
-| &nbsp;&nbsp;&nbsp;&nbsp;• Introduction to VRDU and MLLM | |
-| **2. Background of VRDU and MLLMs** | **60 mins** |
-| &nbsp;&nbsp;&nbsp;&nbsp;• VRDU Tasks and Benchmark Datasets | |
-| &nbsp;&nbsp;&nbsp;&nbsp;• Deep Learning Frameworks of VRDU | |
-| &nbsp;&nbsp;&nbsp;&nbsp;• Development of MLLM | |
-| &nbsp;&nbsp;&nbsp;&nbsp;• 💻 Lab 1: Pretrained VRDU Frameworks | |
-| &nbsp;&nbsp;&nbsp;&nbsp;• ☕️ Break and Q&A | **15 mins** |
-| **3. MLLMs for VRDU** | **85 mins** |
-| &nbsp;&nbsp;&nbsp;&nbsp;• MLLM-based VRDU Framework Overview | |
-| &nbsp;&nbsp;&nbsp;&nbsp;• MLLM for VRDU – Training Strategies | |
-| &nbsp;&nbsp;&nbsp;&nbsp;• MLLM for VRDU – Inference Approaches | |
-| &nbsp;&nbsp;&nbsp;&nbsp;• MLLM for VRDU – Dataset Preparation | |
-| &nbsp;&nbsp;&nbsp;&nbsp;• 💻 Lab 2: Applying MLLM for VRDU | |
-| &nbsp;&nbsp;&nbsp;&nbsp;• ☕️ Break and Q&A | **15 mins** |
-| **4. Conclusion and Remarks** | **10 mins** |
-| &nbsp;&nbsp;&nbsp;&nbsp;• Future Trends | |
-| &nbsp;&nbsp;&nbsp;&nbsp;• Conclusion | |
+| **Section**                               | **Duration** | **Section**                               | **Duration** |
+|-------------------------------------------|--------------|--------------------------------------------|--------------|
+| **1. Introduction to MLLM for VRDU**      | **20 mins**  | **3. MLLMs for VRDU**                      | **85 mins**  |
+| • Motivation and Significance             |              | • MLLM-based VRDU Framework Overview       |              |
+| • Introduction to VRDU and MLLM           |              | • MLLM for VRDU – Training Strategies      |              |
+| **2. Background of VRDU and MLLMs**       | **60 mins**  | • MLLM for VRDU – Inference Approaches     |              |
+| • VRDU Tasks and Benchmark Datasets       |              | • MLLM for VRDU – Dataset Preparation      |              |
+| • Deep Learning Frameworks of VRDU        |              | • 💻 Lab 2: Applying MLLM for VRDU         |              |
+| • Development of MLLM                     |              | • ☕️ Break and Q&A                          | **15 mins**  |
+| • 💻 Lab 1: Pretrained VRDU Frameworks    |              | **4. Conclusion and Remarks**              | **10 mins**  |
+| • ☕️ Break and Q&A                        | **15 mins**  | • Future Trends                            |              |
+|                                           |              | • Conclusion                               |              |
 
 ---
 
