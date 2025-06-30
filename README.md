@@ -1,8 +1,6 @@
 # IJCAI 2025 Tutorial  
 **Multimodal Large Language Models for Visually Rich Document Understanding (VRDU)**
 
-**Primary Contact**: Yihao Ding, University of Sydney ([yihao.ding@sydney.edu.au](mailto:yihao.ding@sydney.edu.au))
-
 ---
 
 ## Overview
