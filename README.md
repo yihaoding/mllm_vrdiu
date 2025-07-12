@@ -72,33 +72,57 @@ He has published in leading conferences and journals such as ACL, CVPR, AAAI, IJ
 
 </td>
 </tr>
-</table>
 
+<tr>
+<td width="140"><img src="images/feiqi.jpg" width="130"></td>
+<td>
 
----
-
-### <img src="assets/feiqi.jpg" width="100" height="100"> Dr. Feiqi Cao
+### Dr. Feiqi Cao  
+Postdoctoral Research Fellow, University of Melbourne  
 Ph.D., School of Computer Science, University of Sydney  
 Feiqi is a third-year Ph.D. candidate at the School of Computer Science, University of Sydney. Her research interests include explainable artificial intelligence, visual question answering, multimodal learning and pretraining. She has published a survey paper about vision-language pretraining at IJCAI 2022, and she is currently collaborating with the Sapienza University of Roma on vision-language pretraining and multimodal LLM research. In addition, she has also been publishing several other papers at top-tier venues (IJCAI, AAAI, COLING, and Robotics Journal). She also organised a conference tutorial for international audiences at ACM MM (Multimedia 2024, the top-tier venue of Multi-modal Learning), named ‘Multimodal Large Language Models and Tunings: Vision, Language, Sensors, Audio, and Beyond’, which is closely related to the proposed tutorial topic.
 
----
 
-### <img src="assets/siqu.jpg" width="100" height="100"> Dr. Siqu Long
+</td>
+</tr>
+
+<tr>
+<td width="140"><img src="images/sharon.jpg" width="130"></td>
+<td>
+
+### Dr. Siqu Long  
 Affiliated Researcher, University of Sydney  
 Siqu is an affiliated researcher at the University of Sydney. Her research interests include natural language processing with deep learning, multimodal machine learning, and explainable artificial intelligence. She has published multiple papers for text and document understanding, at top-tier conferences (SIGIR, IJCAI, COLING and WWW). She also has experience in organising the conference tutorials for international audiences, including ‘Spoken Language Understanding for Conversational AI: Recent Advances and Future Direction’ at the ACM Web Conference in 2023.
 
----
 
-### <img src="images/siwen.jpg" width="100"> Dr. Siwen Luo
+</td>
+</tr>
+
+<tr>
+<td width="140"><img src="images/siwen.jpg" width="130"></td>
+<td>
+
+### Dr. Siwen Luo  
 Lecturer, University of Western Australia  
 Siwen received her Ph.D. in Computer Science from The University of Sydney in 2023 and is currently a Lecturer at The University of Western Australia. Her research spans Multimodal Learning, Large Language Models, and Explainable AI, and she has received the Best Paper Award and Best Area Paper Award at top-tier AI and NLP conferences for her work in Multimodal Learning. Dr. Luo has also made substantial contributions to Visually-rich Document Understanding, with her research being published in leading AI conferences such as COLING 2022, ECML PKDD 2023, and IJCAI 2024. As a recognised leader in this field, she organised and chaired the first Document Intelligence and Understanding workshop at the prestigious CIKM 2023 conference.
 
----
 
-### <img src="assets/yifan.jpg" width="100" height="100"> Dr. Yifan Peng
+</td>
+</tr>
+
+
+<tr>
+<td width="140"><img src="images/yifan.jpg" width="130"></td>
+<td>
+
+### Dr. Yifan Peng  
 Associate Professor, Weill Cornell Medicine  
 Yifan received his Ph.D. degree in the University of Sydney and was a Research Fellow at the School of Computing and Information Systems, University of Melbourne. His research interests contain visually rich document understanding, multimodal large language model, information retrieval, question answering, and interdisciplinary deep learning, alongside contributions to industrial projects with the Bank of Korea and Geological Survey of Western Australia. 
 He has published in leading conferences and journals such as ACL, CVPR, AAAI, IJCAI, SIGIR, ECML-PKDD, COLING, Water Research, and Artificial Intelligence Review. He is also deeply involved in the AI community, organizing workshops, tutorials, and competitions at top-tier international conferences such as AAAI, IJCAI, and CIKM about visually rich document understanding, and serving as chair and reviewers platforms like IJCAI, IJCNN, ARR Rolling, ICLR, CVPR, ICCV and ACMMM. 
+
+</td>
+</tr>
+</table>
 
 ---
 
