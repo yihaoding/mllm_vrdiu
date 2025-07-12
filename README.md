@@ -78,7 +78,7 @@ He has published in leading conferences and journals such as ACL, CVPR, AAAI, IJ
 <td>
 
 ### Dr. Feiqi Cao  
-Postdoctoral Research Fellow, University of Melbourne  
+Postdoctoral Research Fellow, University of Western Australia  
 Ph.D., School of Computer Science, University of Sydney  
 Feiqi is a third-year Ph.D. candidate at the School of Computer Science, University of Sydney. Her research interests include explainable artificial intelligence, visual question answering, multimodal learning and pretraining. She has published a survey paper about vision-language pretraining at IJCAI 2022, and she is currently collaborating with the Sapienza University of Roma on vision-language pretraining and multimodal LLM research. In addition, she has also been publishing several other papers at top-tier venues (IJCAI, AAAI, COLING, and Robotics Journal). She also organised a conference tutorial for international audiences at ACM MM (Multimedia 2024, the top-tier venue of Multi-modal Learning), named ‘Multimodal Large Language Models and Tunings: Vision, Language, Sensors, Audio, and Beyond’, which is closely related to the proposed tutorial topic.
 
