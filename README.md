@@ -67,9 +67,8 @@ We look forward to your participation and contribution to the discussion!
 
 ### Dr. Yihao Ding  
 Postdoctoral Research Fellow, University of Melbourne  
-Yihao received his Ph.D. degree in the University of Sydney and was a Research Fellow at the School of Computing and Information Systems, University of Melbourne. His research interests contain visually rich document understanding, multimodal large language model, information retrieval, question answering, and interdisciplinary deep learning, alongside contributions to industrial projects with the Bank of Korea and Geological Survey of Western Australia.  
+Yihao received his Ph.D. degree in the University of Sydney and is a the School of Physics, Mathematics and Computing, University of Western Australia. His research interests contain visually rich document understanding, multimodal large language model, and interdisciplinary deep learning, alongside contributions to industrial projects with the Bank of Korea and Geological Survey of Western Australia.  
 He has published in leading conferences and journals such as ACL, CVPR, AAAI, IJCAI, SIGIR, ECML-PKDD, COLING, Water Research, and Artificial Intelligence Review. He is also deeply involved in the AI community, organizing workshops, tutorials, and competitions at top-tier international conferences such as AAAI, IJCAI, and CIKM about visually rich document understanding, and serving as chair and reviewers platforms like IJCAI, IJCNN, ARR Rolling, ICLR, CVPR, ICCV and ACMMM. 
-
 </td>
 </tr>
 
