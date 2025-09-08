@@ -7,7 +7,7 @@
 - [A Survey on MLLM-based Visually Rich Document Understanding: Methods, Challenges, and Emerging Trends](https://arxiv.org/abs/2507.09861)
 
 ### 🎞️ Slides  
-- [Coming Soon](#)
+- [Tutorial Slide](https://drive.google.com/file/d/1QvouomUN6zq7ztxi5ve-OcIEq4L0QCp7/view?usp=sharing)
 
 
 ## Overview
